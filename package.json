@@ -1,0 +1,12 @@
+{
+  "name": "telekit-example-ping",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ping? Pong.",
+  "main": "app.js",
+  "author": "Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)",
+  "license": "MIT",
+  "dependencies": {
+    "telekit": "^0.1.0"
+  }
+}
