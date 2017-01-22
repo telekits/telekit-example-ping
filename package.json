@@ -7,6 +7,7 @@
   "author": "Denis Maslennikov <mrdenniska@gmail.com> (nofach.com)",
   "license": "MIT",
   "dependencies": {
-    "telekit": "^0.1.0"
+    "telekit": "^0.1.0",
+    "telekit-cmd": "^0.1.1"
   }
 }
